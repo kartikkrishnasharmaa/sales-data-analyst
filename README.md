@@ -1,3 +1,6 @@
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+
+
 **Data Analyst Report: Pizza Sales Analysis**
 
 **A. Key Performance Indicators (KPIs)**
