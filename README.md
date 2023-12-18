@@ -1,5 +1,4 @@
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
-<a href="https://ibb.co/17MSV0G"><img src="https://i.ibb.co/xXY4v2q/Screenshot-298.png" alt="Screenshot-298" border="0"></a>
+<img src="https://i.ibb.co/xXY4v2q/Screenshot-298.png" alt="Screenshot-298" border="0">
 
 **Data Analyst Report: Pizza Sales Analysis**
 
